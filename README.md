@@ -2,7 +2,7 @@
 As the prototype of Auxilary Neural Engine slowly moves towards completion and the stream/launch date is getting closer, this repository was created. This repository contains all stream videos and logs produced by Energy-Chan, the prototype character test, during stream.
 
 ## Streaming Schedule
-The first stream (YT) is planned to be somewhere in January 2025. This may be pushed back depending on development of the model. I intend to stream biweekly, subject to my availability. If there eis a busy week or month, there may not be a stream.
+The first stream (YT) is planned to be somewhere in January 2025. This may be pushed back depending on development of the model. I intend to stream biweekly, subject to my availability. If there is a busy week or month, there may not be a stream.
 
 ### Content of Streams
 The stream is estimated to follow this breakdown:
