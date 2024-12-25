@@ -12,13 +12,13 @@ The stream is estimated to follow this breakdown:
 
 As the model progresses, it is likely that the implementation time decreases and the model driving time increases.
 
-# FAQ
-## Where to find the streams?
+## FAQ
+### Where to find the streams?
 I will update this repo with a link sometime later.
 
-## What is the different between this model and other current-day AI Youtube content such as Vedal & Neuro?
+### What is the different between this model and other current-day AI Youtube content such as Vedal & Neuro?
 The difference is that Energy-Chan is primarily a research prototype that has entertainment as a **metric**. In addition, there are a few components of Energy-Chan not found in Neuro, such as 3D-spatial movement and the **memory engine (HLGraphRAG)** used for high performance recall.
 
-## Code for AXNE?
+### Code for AXNE?
 Unfortunately, I have opted not to disclose the code for Auxilary Neural Engine. Energy-Chan is essentially proprietary, albeit this may change in the next few years or so.
 
