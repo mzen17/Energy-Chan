@@ -1,7 +1,7 @@
 # Energy-Chan Streams
 As the prototype of Auxilary Neural Engine slowly moves towards completion and the stream/launch date is getting closer, this repository was created. This repository contains all stream videos and logs produced by Energy-Chan, the prototype character test, during stream.
 
-![image](https://github.com/user-attachments/assets/c805c1f0-602c-4f72-b349-b1adbee5c5e9)
+![image](https://github.com/user-attachments/assets/32ada648-eea3-4b84-b586-0263aa8ca312)
 [A 3D model of Energy-Chan being made in Blender by mzen17, subject to change to more detailed one]
 
 ## Streaming Schedule
