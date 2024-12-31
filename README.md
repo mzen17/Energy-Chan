@@ -13,7 +13,7 @@ Energy-Chan serves as the front and testing metric for ATHR Lab's AXNE. ATHR hol
 We establish hard coded metrics to **ensure** our model is improving. These are tests/benchmarks custom designed, used on previous models and models from other vendors. Youtube is one of Energy-Chan's metrics, providing ATHR with access to feedback/reviews.
 
 ### Memory
-We develop a complex system HLGraphRAG, inspired by Microsoft's GraphRAG, using weighted retrival graphs, allowing for high performance recall.
+Our model must be able to store and retrieve data in a human-like manner. To do this, we developed a complex system HLGraphRAG, inspired by Microsoft's GraphRAG, using weighted retrival graphs, allowing for high performance recall.
 
 ### Movement
 Our model is capable of moving, conducting actions such as waving a hand when they want to or conducting executions on a computer.
