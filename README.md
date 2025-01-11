@@ -7,6 +7,7 @@ As the prototype of Auxilary Neural Engine slowly moves towards completion and t
 
 ## About
 Energy-Chan serves as the front and testing metric for ATHR Lab's AXNE. ATHR holds core 6 principles for all human-recreation models.
+
 ![image](https://github.com/user-attachments/assets/df084180-dbc4-45bd-95e5-51de7662ac80)
 
 ### Performance Testing
