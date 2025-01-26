@@ -29,7 +29,7 @@ With every event/stream, our model gains new knowledge from the world and learns
 The model has low rates of erroneous data. It's output matches the personality of the character, and it makes sense in a real world context.
 
 ## Streaming Schedule
-The first stream (YT) is planned to be somewhere in January 2025. This may be pushed back depending on development of the model. I intend to stream biweekly, subject to my availability. If there is a busy week or month, there may not be a stream.
+The first stream (YT) is planned to be somewhere in February (delayed) 2025. This may be pushed back depending on development of the model. I intend to stream biweekly, subject to my availability. If there is a busy week or month, there may not be a stream.
 
 ### Content of Streams
 The stream is estimated to follow this breakdown:
