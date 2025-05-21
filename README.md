@@ -1,4 +1,4 @@
-# Energy-Chan & AXNE (ATHR Labs)
+# Energy-Chan
 As the prototype of Auxilary Neural Engine slowly moves towards completion and the stream/launch date is getting closer, this repository was created. This repository contains all stream videos and logs produced by Energy-Chan, the prototype character test, during stream, as well as written papers.
 
 ![image](https://github.com/user-attachments/assets/a6dbcb91-bd31-4865-9c56-47c6ebf54535)
@@ -29,7 +29,7 @@ With every event/stream, our model gains new knowledge from the world and learns
 The model has low rates of erroneous data. It's output matches the personality of the character, and it makes sense in a real world context.
 
 ## Streaming Schedule
-The first stream (YT) is planned to be somewhere in February (delayed) 2025. This may be pushed back depending on development of the model. I intend to stream biweekly, subject to my availability. If there is a busy week or month, there may not be a stream.
+The first stream (YT) is planned to be sometime in 2025. This may be pushed back depending on development of the model. I intend to stream every 2ish so weeks, subject to my availability. If there is a busy week or month, there may not be a stream.
 
 ### Content of Streams
 The stream is estimated to follow this breakdown:
